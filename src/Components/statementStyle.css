@@ -82,25 +82,25 @@ button.bg-info:focus {
 }
 
 .bg-warning {
-    background-color: #fb6340 !important;
+    background-color:  hsl(343.59deg 73.56% 34.12%) !important;
 }
 
 a.bg-warning:hover,
 a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-    background-color: #fa3a0e !important;
+    background-color:  hsl(343.59deg 73.56% 34.12%) !important;
 }
 
 .bg-danger {
-    background-color: #f5365c !important;
+    background-color:  hsl(343.59deg 73.56% 34.12%) !important;
 }
 
 a.bg-danger:hover,
 a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-    background-color: #ec0c38 !important;
+    background-color:  hsl(343.59deg 73.56% 34.12%) !important;
 }
 
 .bg-default {
@@ -203,7 +203,7 @@ button.bg-default:focus {
 
 .table .thead-dark th {
     color: #ffffff;
-    background-color: #ff1616;
+    background-color:  hsl(343.59deg 73.56% 34.12%);
 }
 .table .thead-light th {
     color: #8898aa;
